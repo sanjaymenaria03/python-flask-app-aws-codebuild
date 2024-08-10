@@ -2,7 +2,6 @@
 set -e
 
 
-
 # Stop the running container (if any)
 
 # Get the container ID of the running Docker container
